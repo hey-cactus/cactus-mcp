@@ -1,0 +1,13 @@
+{
+  "name": "cactus",
+  "displayName": "Cactus",
+  "version": "1.0.0",
+  "description": "Search your Cactus help pages, product map and past customer conversations, and ask Cactus about your product.",
+  "author": {
+    "name": "Cactus Labs Inc.",
+    "email": "support@heycactus.ai"
+  },
+  "homepage": "https://heycactus.ai/mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "help-center", "documentation", "customer-support", "changelog"]
+}
