@@ -8,6 +8,7 @@
     "email": "support@heycactus.ai"
   },
   "homepage": "https://heycactus.ai/mcp",
+  "logo": "assets/logo.png",
   "license": "MIT",
   "keywords": ["mcp", "help-center", "documentation", "customer-support", "changelog"]
 }
