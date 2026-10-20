@@ -30,7 +30,7 @@ In Cursor, add this to `.cursor/mcp.json`:
 }
 ```
 
-You need a Cactus team with a product built from a GitHub repository. Cactus is in open beta: anyone can start at https://app.heycactus.ai, with 14 days of Pro free and no card.
+You need a Cactus team with a product built from a GitHub repository. Cactus is about to launch; its closed beta started on 16 Oct 2026. Join the waitlist at https://heycactus.ai.
 
 ## Tools
 
