@@ -1,6 +1,6 @@
 # Cactus MCP server
 
-Cactus (heycactus.ai) learns a product from its codebase, answers its customers live, and keeps its help site and changelog current with every release. Its MCP server lets your team reach that knowledge from Claude, ChatGPT, Cursor, VS Code or any other MCP client.
+Cactus ([heycactus.ai](https://heycactus.ai/?utm_source=github.com&utm_medium=referral&utm_campaign=cactus-mcp-readme)) learns a product from its codebase, answers its customers live, and keeps its help site and changelog current with every release. Its MCP server lets your team reach that knowledge from Claude, ChatGPT, Cursor, VS Code or any other MCP client.
 
 This repository holds no server code. It lists Cactus's hosted MCP server: how to connect, the tools it offers, and the manifests MCP directories read.
 
@@ -10,7 +10,7 @@ This repository holds no server code. It lists Cactus's hosted MCP server: how t
 - Transport: Streamable HTTP
 - Sign-in: OAuth 2.0 with your Cactus account (Google or GitHub). Dynamic client registration and client ID metadata documents are supported, with PKCE (S256).
 
-Step-by-step setup for each AI client: https://heycactus.ai/docs/connect-an-ai-client
+Step-by-step setup for each AI client: [https://heycactus.ai/mcp](https://heycactus.ai/mcp?utm_source=github.com&utm_medium=referral&utm_campaign=cactus-mcp-readme)
 
 In Claude Code:
 
@@ -30,7 +30,7 @@ In Cursor, add this to `.cursor/mcp.json`:
 }
 ```
 
-You need a Cactus team with a product built from a GitHub repository. Cactus is about to launch; its closed beta started on 16 Oct 2026. Join the waitlist at https://heycactus.ai.
+You need a Cactus team with a product built from a GitHub repository. Cactus is about to launch; its closed beta started on 16 Oct 2026. Join the waitlist at [https://heycactus.ai](https://heycactus.ai/?utm_source=github.com&utm_medium=referral&utm_campaign=cactus-mcp-readme).
 
 ## Tools
 
@@ -61,9 +61,8 @@ Every product's public help center has its own server, with no sign-in: `https:/
 
 ## Links
 
-- Website: https://heycactus.ai
-- MCP: https://heycactus.ai/mcp
-- Setup: https://heycactus.ai/docs/connect-an-ai-client
+- Website: [https://heycactus.ai](https://heycactus.ai/?utm_source=github.com&utm_medium=referral&utm_campaign=cactus-mcp-readme)
+- MCP: [https://heycactus.ai/mcp](https://heycactus.ai/mcp?utm_source=github.com&utm_medium=referral&utm_campaign=cactus-mcp-readme)
 - Privacy: https://heycactus.ai/privacy
 - Terms: https://heycactus.ai/terms
 - Support: support@heycactus.ai
