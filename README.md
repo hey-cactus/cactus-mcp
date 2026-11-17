@@ -6,7 +6,7 @@ This repository holds no server code. It lists Cactus's hosted MCP server: how t
 
 ## Connect
 
-- Server: `https://mcp.heycactus.ai/mcp?utm_source=github-readme&utm_medium=install`
+- Server: `https://mcp.heycactus.ai/mcp`
 - Transport: Streamable HTTP
 - Sign-in: OAuth 2.0 with your Cactus account (Google or GitHub). Dynamic client registration and client ID metadata documents are supported, with PKCE (S256).
 
@@ -15,7 +15,7 @@ Step-by-step setup for each AI client: [https://heycactus.ai/mcp](https://heycac
 In Claude Code:
 
 ```sh
-claude mcp add --transport http cactus 'https://mcp.heycactus.ai/mcp?utm_source=github-readme&utm_medium=install'
+claude mcp add --transport http cactus https://mcp.heycactus.ai/mcp
 ```
 
 In Cursor, add this to `.cursor/mcp.json`:
@@ -24,7 +24,7 @@ In Cursor, add this to `.cursor/mcp.json`:
 {
   "mcpServers": {
     "cactus": {
-      "url": "https://mcp.heycactus.ai/mcp?utm_source=github-readme&utm_medium=install"
+      "url": "https://mcp.heycactus.ai/mcp"
     }
   }
 }
