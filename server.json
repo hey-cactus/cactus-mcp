@@ -7,12 +7,12 @@
     "url": "https://github.com/hey-cactus/cactus-mcp",
     "source": "github"
   },
-  "version": "1.0.1",
-  "websiteUrl": "https://heycactus.ai/mcp?utm_source=mcp-registry&utm_medium=referral&utm_campaign=listing",
+  "version": "1.0.2",
+  "websiteUrl": "https://heycactus.ai/mcp",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://mcp.heycactus.ai/mcp?utm_source=mcp-registry&utm_medium=install"
+      "url": "https://mcp.heycactus.ai/mcp"
     }
   ]
 }
