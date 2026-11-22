@@ -1,8 +1,8 @@
 {
   "name": "cactus",
   "displayName": "Cactus",
-  "version": "1.0.0",
-  "description": "Search your Cactus help pages, product map and past customer conversations, and ask Cactus about your product.",
+  "version": "1.0.1",
+  "description": "Create your product's docs and help center from your code, keep them up to date with every release, and answer your customers' questions. Set it up and search it from Cursor.",
   "author": {
     "name": "Cactus Labs Inc.",
     "email": "support@heycactus.ai"
